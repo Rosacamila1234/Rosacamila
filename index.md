@@ -6,9 +6,9 @@ title: home
 <p>Write your content in here as you would normally in HTML</p>
 
 <p>three things i like</p>
-<p>&nbsp;</p>
+
 <ul>
-<li>dogs</li>
-<li>cats</li>
-<li>birds</li>
+<li>Grammar</li>
+<li>listening</li>
+<li>Reading</li>
 </ul>
