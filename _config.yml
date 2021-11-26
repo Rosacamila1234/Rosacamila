@@ -1,6 +1,6 @@
-# --- Change what appears in the banner and meta data of your pages --- #
-title: Camila's teaching tools
-description: This is the tag-line of my website.
+n # --- Change what appears in the banner and meta data of your pages --- #
+title: La vie merveilleuse de Camila à Nice
+description: Sur ce site, je vous montrerai le meilleur de Nice.
 
 # --- French --- #
 lang: en
@@ -19,7 +19,7 @@ github:
 # --- Change the words after the colons to change your navigation labels --- #
 navbar-links:
   page1: Home
-  page2: The life of Camila in south of France
-  page3: Gastronomy is south of France
-  page4: Site sighseeing in south of France
-  page5: Camila love for Nature
+  page2: La vie quotidienne de Camila
+  page3: gastronomie dans le sud de la france
+  page4: Site touristique du sud de la France
+  page5: Attractions touristiques
