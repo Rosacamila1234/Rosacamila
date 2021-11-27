@@ -1,5 +1,5 @@
 ---
-title: 
+title: Bienvenue
 ---
 
 <h1>Un voyage à Nice</h1>
