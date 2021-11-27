@@ -9,7 +9,7 @@ lang: en
 # --- Only change these if you change the name of your .md files --- #
 # --- And, only change the names of the HTML files named after each colon: e.g. page2.html --- #
 github:
-  page1: index.html
+  page1:  La vie quotidienne de Camila index.html
   page2: page2.html
   page3: page3.html
   page4: page4.html
@@ -22,4 +22,4 @@ navbar-links:
   page2: La vie quotidienne de Camila
   page3: Gastronomie dans le sud de la france
   page4: Site touristique du sud de la France
-  page5: Le logement
+  page5: Le logementour vous
