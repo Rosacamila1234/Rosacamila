@@ -10,7 +10,7 @@ lang: en
 # --- And, only change the names of the HTML files named after each colon: e.g. page2.html --- #
 github:
   page1: index.html
-  page2: page2.htmlLa vie quotidienne de Camila
+  page2: page2.html
   page3: page3.html
   page4: page4.html
   page5: page5.html
@@ -20,6 +20,6 @@ github:
 navbar-links:
   page1: Home
   page2: La vie quotidienne de Camila
-  page3: gastronomie dans le sud de la france
+  page3: Gastronomie dans le sud de la france
   page4: Site touristique du sud de la France
-  page5: Attractions touristiques
+  page5: Le logement
