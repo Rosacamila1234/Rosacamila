@@ -2,5 +2,17 @@
 title: La vie quotidienne de Camila
 ---
 
-<h1>Page 2</h1>
-<p>Some content</p>
+
+
+
+<h1>Nice</h1>
+<p>write your content in this file as you would normally</p>
+<div class="row">
+<div class="col-sm-6">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Panorama_von_Monaco-La_Turbie.jpg" style="width:100%"></p>
+<p>Flag of Portugal</p>
+</div>
+<div class="col-sm-6">
+<p> C'est une ville belle. </p>
+</div>
+</div>
