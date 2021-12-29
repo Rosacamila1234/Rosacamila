@@ -3,7 +3,7 @@ title: Bienvenue
 ---
 
 <h1>Un voyage à Nice</h1>
-<p>Write your content in here as you would normally in HTML</p>
+<p>Whttps://qtxasset.com/cdn-cgi/image/w=852,h=479,f=auto,fit=crop,g=0.5x0.5/https://qtxasset.com/quartz/qcloud1/media/image/travelagentcentral/1562163389/NiceFrancemanjikiStockGettyImagesPlusGettyImages.jpg/NiceFrancemanjikiStockGettyImagesPlusGettyImages.jpg?VersionId=4KKkRQBVDsP1wxKFWUwAU2pfdegTBUROL</p>
 
 <p>Nice une ville pour tout le monde</p>
 
