@@ -7,22 +7,12 @@ title: Bienvenue
 
 <p>Nice est une ville tourisque du sud de la France. À Nice il y a beaucoup de sites touristiques qui attirent les touristes. Cette ville est aussi visitée pour la multitude de monuments architecturaux ayant une grande valeur historique qui s’y trouvent. Beaucoup d'etudiants veulent d'étudier en Frace à Nice pour faire de découvertes de la richesse de la culture.
 
-<div class="row">
-  
-<div class="col-sn-6">
-<p>some text<p>
- </div>
-  
- <div class="col-sn-6">
-<p>some text <p>
- </div>
+<div class="col-sm-6">
+<p> C'est une ville belle. </p>
+</div>
+</div>
+
            
 
 
 <p></p>
-
-<ul>
-<li></li>
-<li></li>
-<li></li>
-</ul>
