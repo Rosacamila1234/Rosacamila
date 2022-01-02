@@ -8,16 +8,15 @@ title: Bienvenue
 <p>Nice est une ville tourisque du sud de la France. À Nice il y a beaucoup de sites touristiques qui attirent les touristes. Cette ville est aussi visitée pour la multitude de monuments architecturaux ayant une grande valeur historique qui s’y trouvent. Beaucoup d'etudiants veulent d'étudier en France à Nice pour faire de découvertes de la richesse de la culture.
 
 <div class="row"          
-<div class="col-am-6">
+<div class="col-sm-6">
+ <p>frame width="400" height="215" src="https://www.youtube.com/embed/hj1e3WGvBHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>. </p>
  </div>
- <div class="col-am-6">
+ 
+ <div class="col-sm-6">
+ <p> some text</p>
  </div>
  </div>
-<p>frame width="400" height="215" src="https://www.youtube.com/embed/hj1e3WGvBHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>. </p>
 
-
-
-           
 
 
 <p></p>
