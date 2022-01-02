@@ -14,7 +14,7 @@ title: Bienvenue
  </div>
   
  <div class="col-sn-6">
-<p>some text<p>
+<p>some text <p>
  </div>
            
 
