@@ -1,4 +1,30 @@
+<div class="row">
+        
         <div class="col-md-6">
+          <div class="thumbnail">
+            <img src="Nice_baie_des_Anges.jpg" alt="View from the Bay of Angels" style="height:100%">
+            <div class="caption">
+              <p>An aerial view of the city from over the Bay of Angels. One can see the Azure Coast on the foreground,
+                with the Alps rising in the background.
+              </p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-md-6">
+          <div class="thumbnail">
+            <img src="france-comte-de-nice.svg" alt="Nice Coat of Arms" style="height:100%">
+            <div class="caption"></br>
+              <p>The sigil of Nice is a crowned red bird standing atop three green hills over the water.</p></br>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div></br>
+
+
+<div class="col-md-6">
           <div class="thumbnail">
             <img src="france-comte-de-nice.svg" alt="Nice Coat of Arms" style="height:100%">
             <div class="caption"></br>
