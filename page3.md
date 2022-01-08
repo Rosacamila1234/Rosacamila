@@ -1,7 +1,4 @@
-<h1>Gastronomie dans le sud de la France</h1>
-<p>write your content in this file as you would normally</p>
-
-<video width="320" height="240" controls>
-  <source src="RPReplay_Final1638362407[67].mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div class="col-sm-12">
+<p><iframe width="400" height="215" src="https://www.youtube.com/embed/hj1e3WGvBHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>  
+</div>
+<p> Dans cette vidéo, la fille nous emmène dans un tour gastronomique autour de Nice. </p>
